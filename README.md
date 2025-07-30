@@ -3,6 +3,8 @@ Visualizations Showing Infant Mortality vs. GDP per Capita Globally
 
 Using data sets from Kaggle, I created a series of visualizations to show how infant mortality varies from country to country.  
 
+[Link to the Visualizations]([url](https://infant-mortality-visualization.s3.us-east-1.amazonaws.com/index.html))
+
 An initial low-fidelity scatter plot shows a strong skew toward nations with low GDP per Capita. This is not surprising. Comparing wealthy nations with poor nations was not likely to give meaningful results.  
 
 I settled on GDP per capita as a measure of comparing countries, and I derived this feature from the GDP and Population features in the original data sets. I then ranked the countries into quartiles based on GDP per Capita.  
